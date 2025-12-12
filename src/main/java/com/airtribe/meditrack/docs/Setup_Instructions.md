@@ -44,6 +44,7 @@ javac -version
 You should see the Java version information if installation is successful.
 
 ![Java Version Verification](./images/java-version-verification.png)
+![Java Version Verification](./images/java-version.png)
 *Figure 5: Verifying Java Installation*
 
 ## How to Run Main
