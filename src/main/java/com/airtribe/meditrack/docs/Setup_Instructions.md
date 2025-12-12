@@ -106,3 +106,9 @@ Once the application starts, you will see the MediTrack menu:
 - **"ClassNotFoundException"**: Check that you're running from the correct directory with proper classpath
 - **Compilation errors**: Ensure all source files are present and package structure is correct
 
+Folder structure screenshots of your project
+
+![View All Records](./images/folder_structure.png)
+*Figure 10: View folder structure*
+
+
